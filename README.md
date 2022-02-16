@@ -1,6 +1,6 @@
 Bem vindo 👋
 
-Olá, meu nome é Eduardo e sou formado em Análise e Desenvolvimento de Sistemas, estou na área de desenvolvimento de sistemas a mais de 10 anos.
+Olá, meu nome é Eduardo e sou formado em Análise e Desenvolvimento de Sistemas, estou na área de desenvolvimento de sistemas desde 2010.
 
 <br/><br/>
 
